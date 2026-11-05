@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/harshathv/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/harshathv/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/harshathv/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/harshathv/Leetcode_problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshathv/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshathv/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/harshathv/Leetcode_problems/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
