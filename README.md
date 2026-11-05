@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/harshathv/Leetcode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harshathv/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/harshathv/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshathv/Leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshathv/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harshathv/Leetcode_problems/tree/master/0036-valid-sudoku) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshathv/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshathv/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/harshathv/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshathv/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshathv/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harshathv/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshathv/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshathv/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
