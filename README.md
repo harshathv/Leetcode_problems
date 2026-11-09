@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/harshathv/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshathv/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harshathv/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/harshathv/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/harshathv/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harshathv/Leetcode_problems/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/harshathv/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshathv/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/harshathv/Leetcode_problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
 ## Sorting
 |  |
 | ------- |
@@ -184,4 +186,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshathv/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
