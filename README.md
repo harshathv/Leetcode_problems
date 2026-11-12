@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshathv/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/harshathv/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harshathv/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshathv/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshathv/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshathv/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshathv/Leetcode_problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/harshathv/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshathv/Leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
