@@ -1,19 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        hash = {')': '(', ']': '[', '}': '{'}
-        
-        # Loop through each character in the string
+        stack=[]
+        hash={")":"(","}":"{","]":"["}
         for char in s:
             if char in hash:
-                # If it's a closing bracket, check the stack
-                if stack and stack[-1] == hash[char]:
-                    stack.pop()  # Remove the matching opening bracket
+                if stack and stack[-1]==hash[char]:
+                    stack.pop()
                 else:
-                    return False  # Invalid if no match
+                    return False
             else:
-                # Push opening brackets onto the stack
                 stack.append(char)
-        
-        # Return True if stack is empty, False otherwise
-        return not stack
+        return bool(len(stack)==0)
