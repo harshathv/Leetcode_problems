@@ -97,6 +97,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshathv/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/harshathv/Leetcode_problems/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
