@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/harshathv/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/harshathv/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshathv/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/harshathv/Leetcode_problems/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshathv/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshathv/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
