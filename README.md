@@ -99,6 +99,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshathv/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/harshathv/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
@@ -265,8 +266,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshathv/Leetcode_problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/harshathv/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harshathv/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
