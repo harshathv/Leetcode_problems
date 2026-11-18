@@ -275,4 +275,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshathv/Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshathv/Leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshathv/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
