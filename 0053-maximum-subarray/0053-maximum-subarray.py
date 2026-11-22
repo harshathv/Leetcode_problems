@@ -1,9 +1,11 @@
 class Solution:
     def maxSubArray(self, nums: list[int]) -> int:
-        max_current=nums[0]
-        max_upto=nums[0]
-        for num in range(1,len(nums)):
-            max_current=max(nums[num],max_current+nums[num])
-            max_upto=max(max_current,max_upto)
-        return max_upto
+       if not nums:
+        return 0
+       max_current=nums[0]
+       max_far=nums[0]
+       for i in range(1,len(nums)):
+        max_current=max(nums[i],max_current+nums[i])
+        max_far=max(max_far,max_current)
+       return max_far
         
