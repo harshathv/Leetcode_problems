@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/harshathv/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/harshathv/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/harshathv/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/harshathv/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshathv/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions
 | [0198-house-robber](https://github.com/harshathv/Leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshathv/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/harshathv/Leetcode_problems/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/harshathv/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/harshathv/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshathv/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
